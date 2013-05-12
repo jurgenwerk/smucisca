@@ -1,4 +1,3 @@
-smucisca
-========
+iOS app smucisca
 
-smucisca
+https://itunes.apple.com/si/app/smucisca/id593452893?mt=8
